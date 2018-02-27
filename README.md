@@ -1,1 +1,2 @@
 # magazyn
+git remote add
